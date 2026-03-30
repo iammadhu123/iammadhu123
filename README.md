@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Madhu  
 
-<!--
-**iammadhu123/iammadhu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer  
+🌱 Learning DSA & Backend Development  
+🚀 Building Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- Java  
+- JavaScript  
+- Node.js  
+
+---
+
+## 📊 GitHub Stats  
+
+![Madhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammadhu123&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=iammadhu123&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammadhu123&layout=compact&theme=radical)
+
+---
