@@ -22,13 +22,9 @@ I am a computer science student focused on building scalable web applications an
 
 ### 📊 Coding Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=_madhu__&show_icons=true&theme=radical" alt="Madhu's GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=_madhu__&theme=dark" alt="Madhu's LeetCode Stats" />
-</p>
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=_madhu__&theme=dark)
 
 ---
 
