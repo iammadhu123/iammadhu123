@@ -20,16 +20,6 @@ I am a computer science student focused on building scalable web applications an
 
 ---
 
-### 📊 Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammadhu123&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=_madhu__&theme=dark" alt="LeetCode Stats" />
-</p>
----
 
 ### 📂 Featured Projects
 * **[Project Name]** - A full-stack application built with Spring Boot and React.
