@@ -9,7 +9,6 @@
 
 ### 🌱 About Me
 - 💻 Passionate about building scalable and user-friendly full stack web applications
-- 🚀 Currently exploring Open Source contribution through GSSoC and collaborative communities like FOSSASIA
 - 📚 Learning Advanced MERN Stack, Java DSA, REST APIs, MongoDB, and Git workflows
 - 🎯 Focused on practical development, clean UI, and real-world problem solving
 
@@ -42,10 +41,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iammadhu123&show_icons=true&theme=tokyonight" alt="github stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammadhu123&theme=tokyonight" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammadhu123&layout=compact&theme=tokyonight" alt="top langs"/>
 </p>
 
 ---
