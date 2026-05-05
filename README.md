@@ -45,6 +45,9 @@
 
 ---
 
+
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
+
 ### 🌐 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/madhu-yadav-52b094282
 - GitHub: https://github.com/iammadhu123
