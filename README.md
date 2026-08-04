@@ -2,14 +2,13 @@
 <h3 align="center">Full Stack Web Developer | Java DSA Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Java+DSA+Learner;Open+Source+Contributor;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Java+DSA+Learner;" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 - 🌱 Currently sharpening my MERN Stack development and Java DSA skills
-- 🔍 Exploring Open Source contribution workflows and collaborative development
 - 🎯 Focused on building practical projects with clean UI and meaningful user experience
 
 ---
